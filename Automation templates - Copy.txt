@@ -1,0 +1,13 @@
+Automation templates 
+
+
+
+from selenium import webdriver
+driver = webdriver.Chrome()
+driver.get("https://www.google.com")
+print("page Title:", driver.title)
+driver.quit()
+
+
+
+control + s saves everything on the top terminathe bottom terminal is the command center.
