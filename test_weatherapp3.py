@@ -26,5 +26,5 @@ def test_weather_api_atlanta():
     assert humidity is not None
 
     print(f"\n[SUCCESS] Atlanta Weather: {temp_f} F | Humidity: {humidity}%")
-
+    
                                  
