@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-# 1. Launch Chrome browser
+# 1. Launch Chrome browser with anti-bot arguments
 driver = webdriver.Chrome()
 
 # 2. Navigate to Google
